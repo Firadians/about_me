@@ -13,6 +13,10 @@ I'm a passionate developer with expertise in creating seamless mobile experience
 - [🚀 BNI Trading App](https://github.com/your-username/bni-trading-app) - Real-time cryptocurrency trading app using WebSocket and `fl_chart`.
 - [📱 Flutter Expense Tracker](https://github.com/your-username/flutter-expense-tracker) - A personal finance tracker with SQFlite for local persistence.
 
+### 📊 Most Used Languages
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 ### 🔗 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/your-name)
-- [Twitter](https://twitter.com/your-handle)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-firdausa)
